@@ -31,4 +31,5 @@ function currentLine(katzDeliLine){
 function takeANumber1(katzDeliLine,length){
   katzDeliLine.push(length)
   length++
+  return ''
 }
